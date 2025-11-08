@@ -1,17 +1,18 @@
-<!-- Ibrahim Mohamed | ibrahim-06 -->
+<!-- 🌟 Ibrahim Mohamed | ibrahim-06 -->
 
 <!-- 🎯 Animated Typing Header -->
 <p align="center">
   <a href="https://github.com/ibrahim-06">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ibrahim+Mohamed+👋;AI+%26+Web+Developer;Python+%7C+React+%7C+Node.js;Always+learning+new+things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ibrahim+Mohamed+👋;AI+%26+Web+Developer;Python+%7C+React+%7C+Node.js;Always+Learning+New+Things!" alt="Typing Animation" />
   </a>
 </p>
 
 <!-- 🌈 Gradient Title -->
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/profile-readme/handshake.gif" width="40px" /> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" /> 
   Welcome to My GitHub Profile
 </h1>
+
 <h3 align="center">💻 Computer Science Student | Egyptian Chinese University 🇪🇬</h3>
 
 ---
@@ -24,17 +25,19 @@
 ---
 
 ## 🧠 About Me
-- 🎓 3rd-year **Computer Science** student at **ECU**  
-- 💡 Passionate about **AI**, **Machine Learning**, and **Web Applications**  
-- 💻 Experienced in **Python**, **React**, and **Node.js**  
-- ⚙️ I enjoy solving problems and building smart tools  
-- 📬 Reach me at: **ibrahim.06.dev@gmail.com**
+> _"Turning ideas into smart, functional, and beautiful solutions."_
+
+- 🎓 3rd-year **Computer Science** student at **ECU**
+- 🤖 Exploring **Artificial Intelligence**, **Deep Learning**, and **Web Applications**
+- 💻 Skilled in **Python**, **React**, and **Node.js**
+- ⚙️ Love automating things & visualizing algorithms
+- 📫 Reach me: **ibrahim.06.dev@gmail.com**
 
 ---
 
 ## 🧩 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,react,nodejs,html,css,js,git,github,vscode,mysql,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,flask,react,nodejs,html,css,js,git,github,vscode,mysql,linux" />
 </p>
 
 ---
@@ -45,6 +48,35 @@
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Hosting-Railway-0B0D0E?style=for-the-badge&logo=railway" />
+</p>
+
+---
+
+## 🚀 My Featured Projects
+| 🌟 Project | 📝 Description | ⚙️ Tech |
+|------------|----------------|----------|
+| 🪐 **3D Solar System** | Realistic OpenGL project simulating solar motion & lighting | `C++`, `OpenGL`, `GLUT` |
+| 🚀 **Space Treasure Hunt** | AI-based game visualizing search algorithms in space | `Python`, `Pygame`, `AI` |
+| 🧠 **Scheduler GUI** | Visual GUI for CPU scheduling algorithms | `Python`, `Tkinter` |
+| 🌐 **Algorithm Visualizer Web** | Animated website showing Brute Force & Binary Search | `HTML`, `CSS`, `JS` |
+
+---
+
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibrahim-06&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ibrahim-06&theme=react&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-06&theme=react-dark&bg_color=0D1117&color=00FF99&line=00FF99&point=00FF99&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-06&theme=onestar&no-frame=true&column=6&margin-w=10" />
 </p>
 
 ---
@@ -71,8 +103,11 @@
 
 ---
 
+<!-- 🌊 Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00FF99&section=footer" />
 </p>
 
-<p align="center">⚡ Made with ❤️ by <strong>Ibrahim Mohamed (ibrahim-06)</strong></p>
+<p align="center">
+  ⚡ Made with ❤️ by <strong>Ibrahim Mohamed (ibrahim-06)</strong>
+</p>
