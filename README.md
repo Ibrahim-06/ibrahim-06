@@ -52,35 +52,6 @@
 
 ---
 
-## 🚀 My Featured Projects
-| 🌟 Project | 📝 Description | ⚙️ Tech |
-|------------|----------------|----------|
-| 🪐 **3D Solar System** | Realistic OpenGL project simulating solar motion & lighting | `C++`, `OpenGL`, `GLUT` |
-| 🚀 **Space Treasure Hunt** | AI-based game visualizing search algorithms in space | `Python`, `Pygame`, `AI` |
-| 🧠 **Scheduler GUI** | Visual GUI for CPU scheduling algorithms | `Python`, `Tkinter` |
-| 🌐 **Algorithm Visualizer Web** | Animated website showing Brute Force & Binary Search | `HTML`, `CSS`, `JS` |
-
----
-
-## 📊 GitHub Stats & Activity
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibrahim-06&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=ibrahim-06&theme=react&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-06&theme=react-dark&bg_color=0D1117&color=00FF99&line=00FF99&point=00FF99&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-06&theme=onestar&no-frame=true&column=6&margin-w=10" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-mohamed-211-" target="_blank">
