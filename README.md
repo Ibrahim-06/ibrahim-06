@@ -49,28 +49,6 @@
 
 ---
 
-## 🏆 Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🚀 **Space Treasure Hunt** | An interactive AI-powered game visualizing search algorithms | `Python`, `Pygame`, `AI` |
-| 🌞 **3D Solar System (OpenGL)** | Realistic simulation with textures, camera, and lighting | `C++`, `OpenGL`, `GLUT` |
-| 🧠 **AI Scheduler GUI** | Smart GUI for scheduling algorithms visualization | `Python`, `Tkinter` |
-| 🌐 **Algorithm Visualizer Web** | Web-based search algorithm visualizer with animations | `HTML`, `CSS`, `JS` |
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibrahim-06&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ibrahim-06&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-06&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-mohamed-211-" target="_blank">
