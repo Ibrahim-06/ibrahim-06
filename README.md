@@ -24,7 +24,7 @@
 - 💻 Worked on projects using **Python**, **React**, and **Node.js**  
 - 🌱 Currently exploring **AI**, **Deep Learning**, and **Web Applications**  
 - ⚙️ I like building smart and useful things  
-- 📫 Reach me at: **ibrahim.mohamed@example.com**
+- 📫 Reach me at: **ibrahim.06.dev@gmail.com**
 
 ---
 
@@ -63,9 +63,9 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/ibrahim-mohamed-211-" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://github.com/ibrahim-06" target="blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://twitter.com/your-twitter" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://t.me/ibrahim_mohamed_211" target="blank"><img src="https://skillicons.dev/icons?i=telegram" height="40"/></a>
 </p>
 
 ---
