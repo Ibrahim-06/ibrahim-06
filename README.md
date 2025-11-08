@@ -41,22 +41,7 @@
   <img src="https://img.shields.io/badge/Editor-VSCode-0078D4?logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" />
   <img src="https://img.shields.io/badge/Hosting-Railway-purple?logo=railway" />
-  <img src="https://img.shields.io/badge/Frontend-Vercel-black?logo=vercel" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-06&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-06&theme=radical" height="150" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-06&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://img.shields.io/badge/Frontend-Railway-purple?logo=railway" />
 </p>
 
 ---
