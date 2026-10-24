@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=620&height=42&lines=Cyber+Security+Enthusiast;Web+Developer;Build+%7C+Secure+%7C+Improve" alt="Typing animation"/>
 
 </div>
-
+<div align="center">
 whoami 👨‍💻
 <br>
 🎓 Computer Science student at Egyptian Chinese University (ECU).
@@ -17,6 +17,7 @@ whoami 👨‍💻
 ⚡ Always learning, experimenting, and improving.
 ****
 ⚙️ Tech Stack
+  </div>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,flask,mysql,linux,git,github,vscode" alt="Technology stack"/>
