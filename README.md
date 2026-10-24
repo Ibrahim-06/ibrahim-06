@@ -38,9 +38,11 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-06&layout=compact&hide_border=true&bg_color=050B18&title_color=38BDF8&text_color=E6F3FF&langs_count=6" alt="Top languages"/>
 </div>
 
+<div align="center">
 🚀 Featured Projects
 Explore my repositories for my web development projects,
   <br>coding experiments, and cybersecurity learning journey.
+  </div>
 <div align="center">
 
 <a href="https://github.com/ibrahim-06?tab=repositories">
