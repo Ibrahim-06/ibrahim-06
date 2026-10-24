@@ -54,6 +54,7 @@ Explore my repositories for my web development projects, coding experiments, and
 
   </div>
 <div align="center">
+  <br>
 
 <a href="https://www.linkedin.com/in/ibrahim-mohamed-211-/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0877D1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
