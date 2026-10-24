@@ -7,11 +7,15 @@
 </div>
 
 whoami 👨‍💻
+<br>
 🎓 Computer Science student at Egyptian Chinese University (ECU).
 <br>
 🛡️ Focused on Cyber Security and learning how to build safer systems.
+<br>
 🌐 Interested in Web Development, with multiple web projects built.
+<br>
 ⚡ Always learning, experimenting, and improving.
+****
 ⚙️ Tech Stack
 <div align="center">
 
