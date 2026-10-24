@@ -6,7 +6,6 @@
 
 </div>
 <div align="center">
-whoami 👨‍💻
 <br>
 🎓 Computer Science student at Egyptian Chinese University (ECU).
 <br>
@@ -17,6 +16,7 @@ whoami 👨‍💻
 ⚡ Always learning, experimenting, and improving.
 ****
 ⚙️ Tech Stack
+  <br>
   </div>
 <div align="center">
 
