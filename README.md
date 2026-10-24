@@ -73,8 +73,10 @@ Explore my repositories for my web development projects,
 
 
 
-<br>
+<div  align="center">
+  <br>
 Build with purpose. Secure by design. Keep learning. ✦
+</div>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00B8FF,50:073B73,100:050B18" width="100%" alt="Footer banner"/>
