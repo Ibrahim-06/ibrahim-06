@@ -39,11 +39,13 @@
 </div>
 
 <div align="center">
+    <br>
 🚀 Featured Projects
 Explore my repositories for my web development projects,
   <br>coding experiments, and cybersecurity learning journey.
   </div>
 <div align="center">
+  <br>
 
 <a href="https://github.com/ibrahim-06?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-0877D1?style=for-the-badge&logo=github&logoColor=white&labelColor=050B18" alt="Explore projects"/>
