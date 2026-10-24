@@ -8,6 +8,7 @@
 
 whoami 👨‍💻
 🎓 Computer Science student at Egyptian Chinese University (ECU).
+<br>
 🛡️ Focused on Cyber Security and learning how to build safer systems.
 🌐 Interested in Web Development, with multiple web projects built.
 ⚡ Always learning, experimenting, and improving.
