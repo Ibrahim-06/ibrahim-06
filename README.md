@@ -2,14 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050B18,45:073B73,100:00B8FF&text=IBRAHIM%20MOHAMED&fontSize=40&fontColor=F4FAFF&fontAlignY=38&desc=CYBER%20SECURITY%20%7C%20WEB%20DEVELOPMENT&descSize=16&descAlignY=59&animation=fadeIn" width="100%" alt="Ibrahim Mohamed banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=620&height=42&lines=Cyber+Security+Enthusiast;Web+Developer;Build+%7C+Secure+%7C+Improve" alt="Typing animation"/>
-
-<a href="https://github.com/ibrahim-06">
-  <img src="https://komarev.com/ghpvc/?username=ibrahim-06&style=flat-square&color=0877D1&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-<a href="https://github.com/ibrahim-06?tab=followers">
-  <img src="https://img.shields.io/github/followers/ibrahim-06?style=flat-square&color=0877D1&label=FOLLOWERS&logo=github" alt="GitHub followers"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=620&height=42&lines=Cyber+Security+Enthusiast;Web+Developer;Build+%7C+Secure+%7C+Improve" alt="Typing animation"/>
 
 </div>
 
