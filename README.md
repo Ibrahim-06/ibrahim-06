@@ -23,6 +23,7 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,flask,mysql,linux,git,github,vscode" alt="Technology stack"/>
+<br>
 
 </div>
 
