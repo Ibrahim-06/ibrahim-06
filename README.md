@@ -29,10 +29,11 @@
 <div align="center">
     <br>
 📊 GitHub Overview
-  <br>
+
   </div>
   
 <div align="center">
+    <br>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrahim-06&show_icons=true&hide_border=true&bg_color=050B18&title_color=38BDF8&icon_color=168BFF&text_color=E6F3FF&rank_icon=github" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-06&layout=compact&hide_border=true&bg_color=050B18&title_color=38BDF8&text_color=E6F3FF&langs_count=6" alt="Top languages"/>
 </div>
