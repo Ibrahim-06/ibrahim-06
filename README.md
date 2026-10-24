@@ -39,7 +39,8 @@
 </div>
 
 🚀 Featured Projects
-Explore my repositories for my web development projects, coding experiments, and cybersecurity learning journey.
+Explore my repositories for my web development projects,
+  <br>coding experiments, and cybersecurity learning journey.
 <div align="center">
 
 <a href="https://github.com/ibrahim-06?tab=repositories">
