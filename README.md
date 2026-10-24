@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=36E6C4&center=true&vCenter=true&width=620&height=42&lines=Cyber+Security+Enthusiast;Web+Developer;Build+%7C+Secure+%7C+Improve" alt="Typing animation"/>
 
-<a href="https://github.com/ibrahim-06">
-  <img src="https://komarev.com/ghpvc/?username=ibrahim-06&style=flat-square&color=0B9F8B&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
 <a href="https://github.com/ibrahim-06?tab=followers">
   <img src="https://img.shields.io/github/followers/ibrahim-06?style=flat-square&color=0B9F8B&label=FOLLOWERS&logo=github" alt="GitHub followers"/>
 </a>
