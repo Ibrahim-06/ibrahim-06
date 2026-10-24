@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:06121A,45:063B3B,100:00D9B5&text=IBRAHIM%20MOHAMED&fontSize=40&fontColor=F4FFFC&fontAlignY=38&desc=CYBER%20SECURITY%20%7C%20WEB%20DEVELOPMENT&descSize=16&descAlignY=59&animation=fadeIn" width="100%" alt="Ibrahim Mohamed banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=36E6C4&center=true&vCenter=true&width=620&height=42&lines=Cyber+Security+Enthusiast;Web+Developer;Build+%7C+Secure+%7C+Improve" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=36E6C4&center=true&vCenter=true&width=620&height=42&lines=Cyber+Security+Enthusiast;Web+Developer;Build+%7C+Secure+%7C+Improve" alt="Typing animation"/>
 
 </div>
 
