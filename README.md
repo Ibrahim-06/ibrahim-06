@@ -40,7 +40,7 @@
 
 <div align="center">
     <br>
-🚀 Featured Projects
+🚀 Featured Projects <br>
 Explore my repositories for my web development projects,
   <br>coding experiments, and cybersecurity learning journey.
   </div>
