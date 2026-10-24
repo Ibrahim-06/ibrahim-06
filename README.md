@@ -73,7 +73,7 @@ Explore my repositories for my web development projects,
 
 
 
-
+<br>
 Build with purpose. Secure by design. Keep learning. ✦
 </div>
 
