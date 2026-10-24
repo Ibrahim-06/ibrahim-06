@@ -48,7 +48,11 @@ Explore my repositories for my web development projects, coding experiments, and
 
 </div>
 
+<div align="center">
+    <br>
 🌐 Connect With Me
+
+  </div>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ibrahim-mohamed-211-/">
